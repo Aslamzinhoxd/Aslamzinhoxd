@@ -16,7 +16,7 @@ C#, C++, Sql
 </p>
 
 <h3 align="center">Ferramentas</h3>
-<p align="center"><img src="https://simpleicons.org/icons/visualstudiocode.svg" title="Visual Studio Code" alt="code" width="40" height="40"/><img src="https://simpleicons.org/icons/github.svg" title="GitHub" alt="github" width="40" height="40"/><img src="https://simpleicons.org/icons/python.svg" title="Python" alt="python" width="40" height="40"/><img src="https://simpleicons.org/icons/javascript.svg" title="JavaScript" alt="javascript" width="40" height="40"/></p>
+<p align="center"><img src="https://simpleicons.org/icons/visualstudiocode.svg" title="Visual Studio Code" alt="code" width="40" height="40"/><img src="https://simpleicons.org/icons/github.svg" title="GitHub" alt="github" width="40" height="40"/><img src="https://simpleicons.org/icons/python.svg" title="Python" alt="python" width="40" height="40"/><img src="https://simpleicons.org/icons/javascript.svg" title="JavaScript" alt="javascript" width="400" height="400"/></p>
 
 
 <h3 align="center">Contato</h3>
