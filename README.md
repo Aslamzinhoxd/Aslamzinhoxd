@@ -1,4 +1,4 @@
-Olá Sou o aslam aqui vai um pouco sobre mim, meus projetos e tals
+Olá Sou o aslam aqui vai um pouco sobre mim, sobre meu projetos, meus estudos.
 
 <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/785315009449951232/785328332362874908/a_28b3ebb7f0a321dc1ef600e33120b7c3.gif" />
 
