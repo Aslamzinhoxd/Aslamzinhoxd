@@ -15,7 +15,9 @@
 <a href="https://twitch.tv/biel4" target="blank"><img align="center" src="https://simpleicons.org/icons/twitch.svg" alt="twitch" height="30" width="30"/></a>
 </p>
 
-<p align="center"><img src="https://wallpapercave.com/wp/wp2510496.gif" alt="Banner Profile"/></p>
+<p align="center"><img src="https://cdn.discordapp.com/attachments/783731417783861298/795255492581785610/tumblr_f20aacf7843c9bf720aad33030d5caee_5fd73b6e_1280.gif?width=405&height=241" alt="Banner Profile"/></p>
+
+<h4 align="center">Outras Informações</h4>
 
 ![profile] ![languages]
 
