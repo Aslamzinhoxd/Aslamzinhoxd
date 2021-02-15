@@ -15,6 +15,8 @@
 <a href="https://twitch.tv/biel4" target="blank"><img align="center" src="https://simpleicons.org/icons/twitch.svg" alt="twitch" height="30" width="30"/></a>
 </p>
 
+<p align="center"><img src="https://wallpapercave.com/wp/wp2510496.gif" alt="Banner Profile"/></p>
+
 ![profile] ![languages]
 
 [profile]: https://github-readme-stats.vercel.app/api?username=Aslamzinhoxd&show_icons=true&theme=midnight-purple
