@@ -3,7 +3,7 @@
 <p align="center">I'm a developer of bots and web sites, I'm programming.</p>
 
 <h3 align="center">Linguagens</h3>
-<p align="center"><img src="https://simpleicons.org/icons/python.svg" title="Python" alt="python" width="40" height="40"/><img src="https://simpleicons.org/icons/javascript.svg" title="JavaScript" alt="javascript" width="40" height="40"/><img src=" https://img1.gratispng.com/20180624/vtw/kisspng-c-computer-icons-logo-5b2f8b7c9d1517.5144341715298425566434.jpg" title="C#" alt="C#" width="40" height="40"/></p>
+<p align="center"><img src="https://simpleicons.org/icons/python.svg" title="Python" alt="python" width="40" height="40"/><img src="https://simpleicons.org/icons/javascript.svg" title="JavaScript" alt="javascript" width="40" height="40"/><img src="https://img1.gratispng.com/20180624/vtw/kisspng-c-computer-icons-logo-5b2f8b7c9d1517.5144341715298425566434.jpg" title="C#" alt="C#" width="40" height="40"/></p>
 
 <h3 align="center">Ferramentas</h3>
 <p align="center"><img src="https://simpleicons.org/icons/visualstudiocode.svg" title="Visual Studio Code" alt="code" width="40" height="40"/><img src="https://simpleicons.org/icons/github.svg" title="GitHub" alt="github" width="40" height="40"/>
