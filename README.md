@@ -41,6 +41,8 @@
 <details>
   <summary> 📨 Server </summary>
   
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
   <p align="center"> <img src=https://cdn.discordapp.com/attachments/818672780655722567/822227642446905364/desconhecido.gif?size=2048" height="200px" width="200px"/>
 
 <h3 align="center">Linguagens</h3>
