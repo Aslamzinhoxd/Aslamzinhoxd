@@ -4,6 +4,45 @@
 
 <p align="center">I'm a developer of bots and web sites, I'm learning C, C ++ and Lua </p>
 
+<details>
+  <summary> 🚧 bio </summary>
+  
+      - 🌙 sou um beat maker
+      - ☄️ tenho 17 anos
+      - 💫 aceito novas amizades!
+      - 🍃 vários projetos na mente!
+
+     
+     
+ 
+</details>
+
+<details>
+  <summary> 🎸 redes sociais </summary>
+
+[![Twitter Badge](https://img.shields.io/badge/-@Rxshh47-03f8fc?style=flat-square&labelColor=03f8fc&logo=twitter&logoColor=white&link=https://twitter.com/rxshh47)](https://twitter.com/Rxshh47) [![Gmail Badge](https://img.shields.io/badge/rashh-ffffff?style=flat-square&logo=Gmail&logoColor=black&link=mailto:4lxxxxcyber@gmail.com)](mailto:rxshh47@gmail.com) [![Youtube Badge](https://img.shields.io/badge/-rxshh-fc0303?style=flat-square&labelColor=fc0303&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCb3Sx6av9Vf4tjeEgmpiKOg)](https://www.youtube.com/channel/UCb3Sx6av9Vf4tjeEgmpiKOg)
+
+
+```📋 > Rxshh47#2260```
+
+[![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/G3ZZING)
+
+</details>
+
+<details>
+  <summary> 🖥️ Projetos </summary>
+
+| Projetos | Tags |
+| --- | --- |
+| [**Almighty Death**](https://github.com//?) | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Tools.svg/1200px-Tools.svg.png" height="30px" width="30px"/>|
+
+</details>
+
+<details>
+  <summary> 📨 Server </summary>
+  
+  <p align="center"> <img src=https://cdn.discordapp.com/attachments/818672780655722567/822227642446905364/desconhecido.gif?size=2048" height="200px" width="200px"/>
+
 <h3 align="center">Linguagens</h3>
 <p align="center"><img src="https://simpleicons.org/icons/python.svg" title="Python" alt="python" width="40" height="40"/><img src="https://simpleicons.org/icons/javascript.svg" title="JavaScript" alt="javascript" width="40" height="40"/><img src="https://img1.gratispng.com/20180624/vtw/kisspng-c-computer-icons-logo-5b2f8b7c9d1517.5144341715298425566434.jpg" title="C#" alt="C#" width="40" height="40"/><img src="https://img.icons8.com/ios/452/php.png" title="php" alt="php" width="40" height="40"/><img src="https://img1.gratispng.com/20180624/vtw/kisspng-c-computer-icons-logo-5b2f8b7c9d1517.5144341715298425566434.jpg" title="C#" alt="C#" width="40" height="40"/><img src="https://img.icons8.com/ios/452/c-plus-plus-logo.png" title="C++" alt="C++" width="40" height="40"/></p> 
 
