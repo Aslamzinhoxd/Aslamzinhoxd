@@ -7,10 +7,11 @@
  <details>
   <summary> 🚧 bio </summary>
   
-      - 🌙 sou um beat maker
-      - ☄️ tenho 17 anos
-      - 💫 aceito novas amizades!
+      - 🌙 Sou apaixonado por programação
+      - ☄️ Tenho 14 anos
       - 🍃 vários projetos na mente!
+      - 💫 Of all the stars I stand out for being the most intelligent!
+      
 
      
      
@@ -52,7 +53,7 @@
 </details>
 
 <h3 align="center">Linguagens</h3>
-<p align="center"><img src="https://simpleicons.org/icons/python.svg" title="Python" alt="python" width="40" height="40"/><img src="https://simpleicons.org/icons/javascript.svg" title="JavaScript" alt="javascript" width="40" height="40"/><img src="https://img1.gratispng.com/20180624/vtw/kisspng-c-computer-icons-logo-5b2f8b7c9d1517.5144341715298425566434.jpg" title="C#" alt="C#" width="40" height="40"/><img src="https://img.icons8.com/ios/452/php.png" title="php" alt="php" width="40" height="40"/><img src="https://img1.gratispng.com/20180624/vtw/kisspng-c-computer-icons-logo-5b2f8b7c9d1517.5144341715298425566434.jpg" title="C#" alt="C#" width="40" height="40"/><img src="https://img.icons8.com/ios/452/c-plus-plus-logo.png" title="C++" alt="C++" width="40" height="40"/></p> 
+<p align="center"><img src="https://simpleicons.org/icons/python.svg" title="Python" alt="python" width="40" height="40"/><img src="https://simpleicons.org/icons/javascript.svg" title="JavaScript" alt="javascript" width="40" height="40"/><img src="https://img.icons8.com/ios/452/php.png" title="php" alt="php" width="40" height="40"/><img src="https://img1.gratispng.com/20180624/vtw/kisspng-c-computer-icons-logo-5b2f8b7c9d1517.5144341715298425566434.jpg" title="C#" alt="C#" width="40" height="40"/><img src="https://img.icons8.com/ios/452/c-plus-plus-logo.png" title="C++" alt="C++" width="40" height="40"/></p> 
 
 <h3 align="center">Ferramentas</h3>
 <p align="center"><img src="https://simpleicons.org/icons/visualstudiocode.svg" title="Visual Studio Code" alt="code" width="40" height="40"/><img src="https://simpleicons.org/icons/github.svg" title="GitHub" alt="github" width="40" height="40"/>
