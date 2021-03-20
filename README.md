@@ -44,12 +44,12 @@
   
   <p align="center"> <img src=https://media.discordapp.net/attachments/806685759729827840/808007471209775164/gifzada-2.gif?size=2048" height="200px" width="200px"/>
   
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
 <p align="center">
 <a href="https://discord.gg/JjXSxt7u7d" target="blank"><img align="center" src="https://img.shields.io/badge/-ENTRA NA PDE-09ff00?style=for-the-badge&labelColor=7CB342" alt="CB"></a>
 </p>
   
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 </details>
 
 <h3 align="center">Linguagens</h3>
