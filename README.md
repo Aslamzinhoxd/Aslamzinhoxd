@@ -21,10 +21,7 @@
 <details>
   <summary> 🎸 redes sociais </summary>
 
-[![Twitter Badge](https://img.shields.io/badge/-@Aslamzinhoxd-03f8fc?style=flat-square&labelColor=03f8fc&logo=twitter&logoColor=white&link=https://twitter.com/Aslamzinhoxd)](https://twitter.com/Rxshh47) [![Youtube Badge](https://img.shields.io/badge/-rxshh-fc0303?style=flat-square&labelColor=fc0303&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCb3Sx6av9Vf4tjeEgmpiKOg)](https://www.youtube.com/channel/UCb3Sx6av9Vf4tjeEgmpiKOg)
-
-
-```📋 > Rxshh47#2260```
+[![Twitter Badge](https://img.shields.io/badge/-@Aslamzinhoxd-03f8fc?style=flat-square&labelColor=03f8fc&logo=twitter&logoColor=white&link=https://twitter.com/Aslamzinhoxd)](https://twitter.com/Rxshh47) [![Youtube Badge](https://img.shields.io/badge/-rxshh-fc0303?style=flat-square&labelColor=fc0303&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCf1HcifkW2T8CrrwU7LOceA)](https://www.youtube.com/channel/UCf1HcifkW2T8CrrwU7LOceA) <a href="" target="blank"><img align="" src="https://img.shields.io/badge/-📋 Aslam'#3962-09ff00?style=for-the-badge&labelColor=7CB342" alt="CB"></a>
 
 [![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/G3ZZING)
 
