@@ -28,15 +28,6 @@
 </details>
 
 <details>
-  <summary> 🖥️ Projetos </summary>
-
-| Projetos | Tags |
-| --- | --- |
-| [**Almighty Death**](https://github.com//?) | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Tools.svg/1200px-Tools.svg.png" height="30px" width="30px"/>|
-
-</details>
-
-<details>
   <summary> 📨 Server </summary>
   
   <p align="center"> <img src=https://media.discordapp.net/attachments/806685759729827840/808007471209775164/gifzada-2.gif?size=2048" height="200px" width="200px"/>
