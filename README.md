@@ -28,6 +28,17 @@
 </details>
 
 <details>
+  <summary> 🖥️ Projetos </summary>
+
+<h2>Lunna</h2>
+<h3>Lunna é um projeto meu, lunna é um bot de moderação completo com varios sistemas incluindo de registro, economia, xp e mutio mais.</h3>
+
+<h2>Sona Music</h2>
+<h3>Sona é um outro projeto meu, Sona Music é um bot de music completo com efeitos para music, lista de musicas preferidas e mutis mais, Sona junta praticidade com qualidade em um bot só.<h3>
+
+</details>
+
+<details>
   <summary> 📨 Server </summary>
   
   <p align="center"> <img src=https://media.discordapp.net/attachments/806685759729827840/808007471209775164/gifzada-2.gif?size=2048" height="200px" width="200px"/>
