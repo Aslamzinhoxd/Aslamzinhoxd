@@ -51,8 +51,6 @@
   
 </details>
 
-  <p align="center"> <img src=https://cdn.discordapp.com/attachments/818672780655722567/822227642446905364/desconhecido.gif?size=2048" height="200px" width="200px"/>
-
 <h3 align="center">Linguagens</h3>
 <p align="center"><img src="https://simpleicons.org/icons/python.svg" title="Python" alt="python" width="40" height="40"/><img src="https://simpleicons.org/icons/javascript.svg" title="JavaScript" alt="javascript" width="40" height="40"/><img src="https://img1.gratispng.com/20180624/vtw/kisspng-c-computer-icons-logo-5b2f8b7c9d1517.5144341715298425566434.jpg" title="C#" alt="C#" width="40" height="40"/><img src="https://img.icons8.com/ios/452/php.png" title="php" alt="php" width="40" height="40"/><img src="https://img1.gratispng.com/20180624/vtw/kisspng-c-computer-icons-logo-5b2f8b7c9d1517.5144341715298425566434.jpg" title="C#" alt="C#" width="40" height="40"/><img src="https://img.icons8.com/ios/452/c-plus-plus-logo.png" title="C++" alt="C++" width="40" height="40"/></p> 
 
