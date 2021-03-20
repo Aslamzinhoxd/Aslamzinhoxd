@@ -47,7 +47,7 @@
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-<a href="https://discord.gg/xz7CEx5xdC" target="blank"><img align="center" src="https://img.shields.io/badge/-ENTRE PRA BDF-09ff00?style=for-the-badge&labelColor=7CB342" alt="CB"></a>
+<a href="https://discord.gg/JjXSxt7u7d" target="blank"><img align="center" src="https://img.shields.io/badge/-ENTRA NA PDE-09ff00?style=for-the-badge&labelColor=7CB342" alt="CB"></a>
 </p>
   
 </details>
