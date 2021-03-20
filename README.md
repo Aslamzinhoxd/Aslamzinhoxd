@@ -21,7 +21,7 @@
 <details>
   <summary> 🎸 redes sociais </summary>
 
-[![Twitter Badge](https://img.shields.io/badge/-@Aslamzinhoxd-03f8fc?style=flat-square&labelColor=03f8fc&logo=twitter&logoColor=white&link=https://twitter.com/Aslamzinhoxd)](https://twitter.com/Rxshh47) [![Youtube Badge](https://img.shields.io/badge/-Aslam'-fc0303?style=flat-square&labelColor=fc0303&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCf1HcifkW2T8CrrwU7LOceA)](https://www.youtube.com/channel/UCf1HcifkW2T8CrrwU7LOceA) ```Aslam'#3962```
+[![Twitter Badge](https://img.shields.io/badge/-@Aslamzinhoxd-03f8fc?style=flat-square&labelColor=03f8fc&logo=twitter&logoColor=white&link=https://twitter.com/Aslamzinhoxd)](https://twitter.com/Aslamzinhoxd) [![Youtube Badge](https://img.shields.io/badge/-Aslam'-fc0303?style=flat-square&labelColor=fc0303&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCf1HcifkW2T8CrrwU7LOceA)](https://www.youtube.com/channel/UCf1HcifkW2T8CrrwU7LOceA) ```Aslam'#3962```
 
 [![Spotify](https://now-playing-codestackr.vercel.app/api/spotify-playing)](https://open.spotify.com/user/G3ZZING)
 
