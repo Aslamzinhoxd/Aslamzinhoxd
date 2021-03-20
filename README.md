@@ -42,7 +42,7 @@
 <details>
   <summary> 📨 Server </summary>
   
-  <p align="center"> <img src=https://cdn.discordapp.com/attachments/818672780655722567/822227642446905364/desconhecido.gif?size=2048" height="200px" width="200px"/>
+  <p align="center"> <img src=https://media.discordapp.net/attachments/806685759729827840/808007471209775164/gifzada-2.gif?size=2048" height="200px" width="200px"/>
   
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
